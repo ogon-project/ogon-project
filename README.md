@@ -1,4 +1,4 @@
 # ogon project
 
-This repository is project/repository is mainly used for issue tracking
+This project/repository is mainly used as issue tracker
 for all components of the ogon projects.
