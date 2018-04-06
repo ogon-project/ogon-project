@@ -6,11 +6,11 @@
 ## Documentation
 
 Currently the documentation is rather sparse. But we are working hard on improving it.
-[What we have so far](https://github.com/ogon-project/ogon/doc).
+[What we have so far](https://github.com/ogon-project/ogon/tree/master/doc).
 Possibly the most interesting bits to get started:
 
-* [build documentation for Debian/Ubuntu](https://github.com/ogon-project/ogon/)
-* [session manager configuration](https://github.com/ogon-project/ogon/)
+* [build documentation for Debian/Ubuntu](https://github.com/ogon-project/ogon/blob/master/doc/build-debian-ubuntu.md)
+* [session manager configuration](https://github.com/ogon-project/ogon/blob/master/doc/config.md)
 
 ## Mailing list
 
