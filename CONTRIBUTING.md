@@ -137,9 +137,9 @@ from a label just click on the name.
 [support-page]: https://github.com/ogon-project/ogon-project/blob/master/SUPPORT.md
 [ogon-issue-tracker]: https://github.com/ogon-project/ogon-project/issues
 [ogon-issue-new]: https://github.com/ogon-project/ogon-project/issues/new
-[coding-style]: https://github.com/ogon-project/ogon-project/coding_style.md
+[coding-style]: https://github.com/ogon-project/ogon-project/blob/master/coding_style.md
 [cla-sign]: https://www.thincast.com/en/cla
-[commit-message-syntax]: https://github.com/ogon-project/ogon-project/git-commit-msg.md
+[commit-message-syntax]: https://github.com/ogon-project/ogon-project/blob/master/git-commit-msg.md
 [ogon-issue-search-feature]: https://github.com/ogon-project/ogon-project/labels/feature
 [ogon-issue-search-enhancement]: https://github.com/ogon-project/ogon-project/labels/enhancement
 [issue-search-core]: https://github.com/ogon-project/ogon-project/issues?q=is%3Aopen+label%3Acore
