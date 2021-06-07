@@ -20,9 +20,9 @@ The E-mail address of the group is [ogon-project@googlegroups.com](mailto:ogon-p
 
 ## IRC
 
- If you have questions or want to talk about the project you find us in IRC on [freenode channel
- #ogon-project](irc://chat.freenode.net/ogon-project). If you don't have a IRC client installed:
- [freenode](https://freenode.net/) offers a [web interface](http://webchat.freenode.net/?channels=ogon-project)
+ If you have questions or want to talk about the project you find us in IRC on [oftc channel
+ #ogon-project](ircs://irc.oftc.net:6697/ogon-project). If you don't have a IRC client installed:
+ [oftc](https://www.oftc.net/) offers a [web interface](http://webchat.oftc.net/?channels=ogon-project) as well.
 
 We usually help as soon as we can. But don't expect an instant answer, sometimes it takes
 a little, so please be patient in that case.
